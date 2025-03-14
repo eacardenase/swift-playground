@@ -1,8 +1,9 @@
 import Cocoa
 
+// MARK: - Basics
+
 var greeting = "Hello, playground"
+greeting += "!"
 
+// just a simple comment
 print(greeting)
-print("Hi there!")
-
-print("Hello world!")
